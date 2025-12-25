@@ -16,4 +16,4 @@ public:
     void setHoursPerDay(int val);
 
     Teacher& operator=(const Teacher& other);
-}; //комментарий
+}; 

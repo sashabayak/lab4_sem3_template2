@@ -34,4 +34,4 @@ public:
 
     Person& operator=(const Person& other);
 };
-#pragma once
+

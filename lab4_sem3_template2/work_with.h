@@ -14,4 +14,4 @@ void mainMenu();
 
 template<typename T>
 void queueMenu(const string& menuTitle);
-#pragma once
+

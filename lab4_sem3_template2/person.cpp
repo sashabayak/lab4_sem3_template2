@@ -4,7 +4,7 @@ Person::Person()
 {
     firstName[0] = lastName[0] = gender[0] = '\0';
 }
-
+//добавила комментарий
 Person::~Person() {}
 
 istream& operator>>(istream& in, Person& p)
